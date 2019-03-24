@@ -1,0 +1,81 @@
+COLUMN,DESCRIPTION,DATA FORM
+UID,Unique identifier,
+FIELD,,
+LOCATION,,
+LAT,,
+LON,,
+ELE,,
+SERIES,,
+YEAR,,
+PLANTED,Planting Date,date [MM/DD/YY]
+ROW_NUM,,
+DNA,DNA SAMPLED,""""" no sample ""TISSUE"" tissue sampled ""DNA"" DNA prep ""GBS"" (or other) data generated"
+ROW_ID,,
+X1,,
+Y1,,
+X2,,
+Y2,,
+X_MID,,
+Y_MID,,
+PLANT_NUM,,
+CROSS,Pollinization for ear traits,“S” self; “O” open; “B” bulk-by-sib; “ “ all/mixed
+PLANT_ID,,
+PANEL,,
+TYPE,,
+BLOCK,Arbitrary block number; Nested in FIELD (and potenitally PANEL),
+STOCK_FIELD,,
+MUM_STOCK,,
+DAD_STOCK,,
+MUM_GEN,,
+DAD_GEN,,
+,,
+,,
+,,
+STD,Stand Count,count
+EMD,Early Measurements Date,date [MM/DD/YY]
+GER,Germinated Plants,count
+ELN,Early Leaf Number,count
+EPH,Early Plant Height ,cm
+PH,Plant Height,cm
+P_INT,Anthocyanin Pigment Intensity,visual 0-4 code scale
+P_EXT,Anthocyanin Pigment Extent,visual % code scale
+P_PAT,Anthocyanin Pigment Pattern,visual code scale
+M_DEN,Macrohairs Density,visual 0-4 code scale
+M_PAT,Macrohairs Pattern,visual code scale
+DTS,days to silking (DTS),date [MM/DD/YY]
+DTA,days to anthesis (DTA),date [MM/DD/YY]
+TBN,Tassel Branches,count
+TL,Tassel Length,mm
+PE,Produce Ears,count
+EH,Ear Height,cm
+EN,Ear Number,count
+,,
+,,
+,,
+,,
+,,
+,,
+LM,Ear Length (Primary Ear),cm
+DM,Ear Diameter  (Primary Ear),cm
+NHG,Row Number  (Primary Ear),
+GPH,Number of Kernels per Row  (Primary Ear),
+FM,Ear Form  (Primary Ear),
+AHG,Kernel Pattern  (Primary Ear),
+TG,Kernel Type  (Primary Ear),
+FCG,Kernel Crown Shape  (Primary Ear),
+CG,Kernel Color  (Primary Ear),
+CDG,Kernel Top Color  (Primary Ear),
+ICG,Glume Color Intensity  (Primary Ear),
+PM,Ear Weight  (Primary Ear),g
+CGP,Kernels Weighed  (Primary Ear),
+PG,Weight of Kernels  (Primary Ear),g
+PTG,Total Grain Weight  (Primary Ear),g
+CTG,Total Kernel Number  (Primary Ear),
+DO,Cob Diameter  (Primary Ear),cm
+SPM,Ear Weight  (All Secondary Ears),g
+SCGP,Kernels Weighed (All Secondary Ears),
+SPG,Weight of Kernels (All Secondary Ears),g
+SPTG,Total Grain Weight (All Secondary Ears),g
+SCTG,Total Kernel Number  (All Secondary Ears),
+TPM,Total Ear Weight (All Ears),g
+TPTG,Total Grain Weight (All Ears),g
